@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gutlicious POS — Complete Laravel Restaurant System
 
 A high-performance Restaurant Point-of-Sale (POS) and Management System built with Laravel 11, MySQL, Blade, and Bootstrap 5.
@@ -26,3 +27,7 @@ A high-performance Restaurant Point-of-Sale (POS) and Management System built wi
 ### Default Credentials
 - **Admin:** admin@gutlicious.com / Admin@1234
 - **Cashier:** cashier@gutlicious.com / Cashier@1234
+=======
+# laravel-pos-system
+Restaurant POS and Management System built with Laravel 11, MySQL, Blade, and Bootstrap 5.
+>>>>>>> origin/main
